@@ -54,7 +54,7 @@ function Game() {
 	}
 
 	//helper functions
-	/*
+	/* genBoard(n): recursive function that builds tic-tac-toe board down to n levels
 	 * r1c1 | r1c2 | r1c3
 	 * ------------------
 	 * r2c1 | r2c2 | r2c3
